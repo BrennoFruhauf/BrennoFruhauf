@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/BrennoFruhauf#gh-light-mode-only">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrennoFruhauf&count_private=true&show_icons=true&include_all_commits=true&title_color=FF2266&text_color=000000&icon_color=9270CA&hide_border=false&border_color=22C7FF&bg_color=FFFFFF&border_radius=10px">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrennoFruhauf&count_private=true&show_icons=true&title_color=FF2266&text_color=000000&icon_color=9270CA&hide_border=false&border_color=22C7FF&bg_color=FFFFFF&border_radius=10px">
   </a>
   <a href="https://github.com/BrennoFruhauf#gh-dark-mode-only">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrennoFruhauf&count_private=true&show_icons=true&include_all_commits=true&title_color=FF2266&text_color=FFFFFF&icon_color=22C7FF&hide_border=false&border_color=9270CA&bg_color=161B22&border_radius=10px">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrennoFruhauf&count_private=true&show_icons=true&title_color=FF2266&text_color=FFFFFF&icon_color=22C7FF&hide_border=false&border_color=9270CA&bg_color=161B22&border_radius=10px">
   </a>
   <a href="https://github.com/BrennoFruhauf?tab=repositories#gh-light-mode-only">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoFruhauf&layout=compact&title_color=FF2266&text_color=000000&hide_border=false&border_color=22C7FF&bg_color=FFFFFF&border_radius=10px">
