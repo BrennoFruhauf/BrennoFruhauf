@@ -11,15 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: BrennoFruhauf
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dark.svg?palette=github-dark&color_snake=#E4405F
-          svg_out_path: dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-pink-light.svg?palette=github-light&color_snake=#FF2266&color_dots=#EBEDF0,#22C7FF,#47ADF9,#7190E8,#9270CA
+            dist/github-contribution-grid-snake-pink-dark.svg?palette=github-light&color_snake=#FF2266&color_dots=#EBEDF0,#22C7FF,#47ADF9,#7190E8,#9270CA
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
