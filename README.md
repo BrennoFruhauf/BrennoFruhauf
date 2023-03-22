@@ -24,11 +24,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://angular.io/docs" target="_blank">
+    <img align="center" alt="Angular" height="30" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img align="center" alt="Spring" height="30" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
   <a href="https://docs.microsoft.com/en-us/cpp/c-language/" target="_blank">
     <img align="center" alt="C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/cpp/" target="_blank">
-    <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
   <a href="https://docs.python.org/3/" target="_blank">
     <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
