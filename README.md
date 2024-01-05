@@ -57,13 +57,7 @@
   <a href="https://www.linkedin.com/in/brennofruhauf/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.instagram.com/brennofruhauf/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- 	<a href="https://www.facebook.com/BrennoFruhauf/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://wa.me/message/OSQBWA5JJX3SL1" target="_blank">
+  <a href="https://wa.me/5564992600577?text=Oie+Brenno%2C+tenho+uma+proposta+de+projeto+para+voc%C3%AA%21" target="_blank">
     <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
 </div>
